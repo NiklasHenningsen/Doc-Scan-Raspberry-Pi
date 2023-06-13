@@ -39,9 +39,9 @@ def send_mail(send_from, send_to, subject, message, files=[],
 
 # E-Mail-Konfiguration
 email_username = "niklashenningsen@gmx.net"
-email_password = "Ralf!172."
+email_password = "Ralf!2004."
 email_sender = email_username
-email_recipient = ["madita.heinisch@gmx.de"]  # Empfänger-E-Mail-Adresse
+email_recipient = ["niklas_henningsen@icloud.com"]  # Empfänger-E-Mail-Adresse
 
 while True:
     key = input("Drücke 1, um ein Foto aufzunehmen: ")
